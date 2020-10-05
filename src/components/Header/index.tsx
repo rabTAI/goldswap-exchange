@@ -156,7 +156,7 @@ export default function Header() {
               <img style={{ height: 32 }} src={isDark ? LogoDark : Logo} alt="logo" />
             </UniIcon>
             <StyledText>
-              DefiGold <MiningManagerText>Exchange</MiningManagerText>
+              GoldSwap <MiningManagerText>Exchange</MiningManagerText>
             </StyledText>
           </Title>
         </HeaderElement>

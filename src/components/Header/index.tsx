@@ -129,7 +129,7 @@ const StyledText = styled.span`
     display: none;
   }
 `
-const MasterChefText = styled.span`
+const MiningManagerText = styled.span`
   font-family: 'Kaushan Script', sans-serif;
 `
 
